@@ -1,6 +1,6 @@
 ### What will be printed to console?
 
-a. `Base`
-b. `Derived`
-c. Compilation error
-d. Runtime error
+1. `Base`
+1. `Derived`
+1. Compilation error
+1. Runtime error
