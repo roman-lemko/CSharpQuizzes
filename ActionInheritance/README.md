@@ -1,3 +1,6 @@
-#What will be the result of executing this code?
+### What will be printed to console?
 
-
+a. `Base`
+b. `Derived`
+c. Compilation error
+d. Runtime error
